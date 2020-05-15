@@ -1,2 +1,2 @@
-# test_web01
-first trying to build a website on my own
+# Web Design Learning 
+My first try to build a website on my own.
